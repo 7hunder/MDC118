@@ -1,6 +1,6 @@
 # Objetivo
 
-1. Escrever um programa em C que calcule o perímetro de uma circunferência (p = 2 x pi x raio, considerendo pi = 3.1416).
+1. Escrever um programa em C que calcule o perímetro de uma circunferência (p = 2 x pi x raio, considerendo pi = 3.1416). V
 
 2. Escrever um programa em C que converta um número x de segundos em horas, minutos e segundos.
 
